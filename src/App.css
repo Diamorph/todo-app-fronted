@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  font-size: 20px;
+}
+
+.FirstComponent {
+  background-color: red;
 }
 
 .App-logo {
